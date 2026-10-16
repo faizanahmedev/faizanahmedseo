@@ -1,0 +1,5 @@
+# Everything may be crawled. Block nothing.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.faizanahmedseo.com/sitemap.xml

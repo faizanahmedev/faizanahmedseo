@@ -1,0 +1,9 @@
+{
+  "name": "faizanahmedseo",
+  "private": true,
+  "scripts": {
+    "sitemap": "node scripts/generate-sitemap.mjs",
+    "check": "node scripts/check-seo.mjs",
+    "build": "node scripts/generate-sitemap.mjs && node scripts/check-seo.mjs"
+  }
+}
